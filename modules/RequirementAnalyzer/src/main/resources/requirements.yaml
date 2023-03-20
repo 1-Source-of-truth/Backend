@@ -1,0 +1,4 @@
+sot:
+  requirements:
+    - name: "DisplayName is used as name for test results"
+    - name: "Test results can be found in a subdirectory"
