@@ -20,7 +20,6 @@ public class RequirementController {
 
     @Autowired
     RequirementController(TestResultService testResultService){
-
         this.testResultService = testResultService;
     }
 
